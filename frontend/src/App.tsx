@@ -1,17 +1,13 @@
-import './App.css'
+
+import './App.css';
 
 function App() {
-
   return (
-    
-      
     <div>
-      <h1>the feeling wheel</h1>
-      <p> getting down to business</p>
+      <h1>The Feeling Wheel</h1>
+      <p>Getting down to business</p>
     </div>
-       
-     
-  )
+  );
 }
 
-export default App
+export default App;
